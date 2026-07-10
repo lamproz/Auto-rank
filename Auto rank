@@ -24,7 +24,7 @@ getgenv().Config =  {
 
     ["Mail Settings"] = {
 
-        ["User"] = "lamroz1",
+        ["User"] = "lamroiz1",
 
         ["Min_Gems"] = 10000000,
 
